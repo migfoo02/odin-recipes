@@ -1,3 +1,3 @@
-This is my first time actually working on developing a website from scratch 
-(even though I'm already in my second year taking a computer science degree)
-Wish me luck!
+A toy HTML website for showcasing Italian recipes
+
+Live site at: https://migfoo02.github.io/odin-recipes/
